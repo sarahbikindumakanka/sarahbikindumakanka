@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahbikindumakanka
-- 👀 I’m interested in CS and Global Health
-- 🌱 I’m currently learning Python, STATA, C++, and JavaScript!
+- 👀 I’m interested in CS and Quant. Finance.
+- 🌱 I’m currently learning Python, C++, JavaScript, and R.
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me: sarahdiveb@gmail.com
 
